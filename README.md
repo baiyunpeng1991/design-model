@@ -12,10 +12,10 @@
 &nbsp;&nbsp;&nbsp;多态  
   
 ## OO原则:  
-&nbsp;&nbsp;&nbsp;*封装变化*    
-&nbsp;&nbsp;&nbsp;*面向接口编程*    
-&nbsp;&nbsp;&nbsp;*多用组合，少用继承*  
-&nbsp;&nbsp;&nbsp;*为了交互对象之间的松耦合设计而努力；松耦合设计更有弹性，更能应对变化*
+**&nbsp;&nbsp;&nbsp;封装变化  
+**&nbsp;&nbsp;&nbsp;面向接口编程  
+**&nbsp;&nbsp;&nbsp;多用组合，少用继承  
+**&nbsp;&nbsp;&nbsp;为了交互对象之间的松耦合设计而努力；松耦合设计更有弹性，更能应对变化  
 
 ## OO模式:  
 ## *&nbsp;&nbsp;&nbsp;观察者模式--Observer*:  
