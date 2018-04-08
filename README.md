@@ -1,16 +1,21 @@
 # design-model
 
-良好的OO设计：
-  可复用，可扩展，可维护
-
-OO基础:
-抽象,继承,封装,多态
-
-OO原则：
-  1，封装变化
-  2，面向接口编程
-  3，多用组合，少用继承
-  
+良好的OO设计:  
+&nbsp;&nbsp;可复用  
+&nbsp;&nbsp;可扩展  
+&nbsp;&nbsp;可维护  
+  
+OO基础:  
+&nbsp;&nbsp;抽象  
+&nbsp;&nbsp;继承  
+&nbsp;&nbsp;封装  
+&nbsp;&nbsp;多态  
+  
+OO原则:  
+&nbsp;&nbsp;封装变化  
+&nbsp;&nbsp;面向接口编程  
+&nbsp;&nbsp;多用组合，少用继承  
+    
 OO模式:
 
 
