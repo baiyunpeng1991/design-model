@@ -12,7 +12,7 @@
 
 
 ## OO基础:  
-&nbsp;&nbsp;&nbsp;抽象  
+&nbsp;&nbsp;&nbsp;抽象  
 &nbsp;&nbsp;&nbsp;继承  
 &nbsp;&nbsp;&nbsp;封装  
 &nbsp;&nbsp;&nbsp;多态  
