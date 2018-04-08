@@ -15,7 +15,8 @@ OO原则:
 &nbsp;&nbsp;封装变化  
 &nbsp;&nbsp;面向接口编程  
 &nbsp;&nbsp;多用组合，少用继承  
-    
+&nbsp;&nbsp;为了交互对象之间的松耦合设计而努力
+
 OO模式:
 
 
