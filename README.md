@@ -26,7 +26,7 @@
 ## OO模式:  
 ## *&nbsp;&nbsp;&nbsp;观察者模式--Observer*:  
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;特点：  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1，在对象之间定义一对多的依赖，当subject对象的状态改变时候，依赖他的对象会收到通知，自动更新；  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1，在对象之间定义*一对多的依赖*，当subject对象的*状态改变*时候，依赖他的对象会收到通知，自动更新；  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2，一个新的模式，以松耦合方式在一系列对象之间沟通状态。  
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;应用：RMI，JavaBean等
 
