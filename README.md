@@ -4,9 +4,15 @@
 &nbsp;&nbsp;&nbsp;可复用  
 &nbsp;&nbsp;&nbsp;可扩展  
 &nbsp;&nbsp;&nbsp;可维护  
-  
-## OO基础:  
-&nbsp;&nbsp;&nbsp;抽象  
+
+## 设计步骤:  
+&nbsp;&nbsp;&nbsp;*1,找出程序中会变化的部分，然后将其与不变的方面相分离;*  
+&nbsp;&nbsp;&nbsp;*2,针对接口编程，而非实现;*  
+&nbsp;&nbsp;&nbsp;*3,多用组合，少用继承;*  
+
+
+## OO基础:  
+&nbsp;&nbsp;&nbsp;抽象  
 &nbsp;&nbsp;&nbsp;继承  
 &nbsp;&nbsp;&nbsp;封装  
 &nbsp;&nbsp;&nbsp;多态  
