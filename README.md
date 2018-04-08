@@ -34,7 +34,7 @@
 |缺点(java.util.Observabled)|优点|  
 |:--:|:--:|
 |违反了面向接口编程|Subject与Observer之间松耦合，互不知晓实现，更改后互不影响|
-|违反了多用组合，少用继承的原则|Subject可以主动推送或者由Observer主动拉取|
+|违反了多用组合，少用继承的原则(如setChanged()方法必须强制复写后才能将此方法与创建的Observable实例组合)|Subject可以主动推送或者由Observer主动拉取|
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|多个观察者时，不可依赖特定的通知顺序|
 
 ### OO原则在Observer模式中的体现  
