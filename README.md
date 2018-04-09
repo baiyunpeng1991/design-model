@@ -1,9 +1,13 @@
 # design-model
 
 ## 良好的OO设计:  
-&nbsp;&nbsp;&nbsp;可复用  
-&nbsp;&nbsp;&nbsp;可扩展  
-&nbsp;&nbsp;&nbsp;可维护  
+#### &nbsp;&nbsp;&nbsp;可复用:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1,继承inheritance  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2,组合component  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3,委托delegation  
+*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其中2,3具有运行时继承的效果*  
+#### &nbsp;&nbsp;&nbsp;可扩展  
+#### &nbsp;&nbsp;&nbsp;可维护  
 
 ## 设计步骤:  
 &nbsp;&nbsp;&nbsp;*1,找出程序中会变化的部分，然后将其与不变的方面相分离（不变的可作为继承复用，变化的使用多态实现复用）;*  
@@ -22,6 +26,7 @@
 **&nbsp;&nbsp;&nbsp;面向接口编程  
 **&nbsp;&nbsp;&nbsp;多用组合，少用继承  
 **&nbsp;&nbsp;&nbsp;为了交互对象之间的松耦合设计而努力；松耦合设计更有弹性，更能应对变化  
+**&nbsp;&nbsp;&nbsp;开闭原则;对扩展开发，对修改关闭;  
 
 ## OO模式:  
 ## *&nbsp;&nbsp;&nbsp;观察者模式--Observer*:  
