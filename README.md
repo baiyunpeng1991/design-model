@@ -26,6 +26,7 @@
 **&nbsp;&nbsp;&nbsp;面向接口编程  
 **&nbsp;&nbsp;&nbsp;多用组合，少用继承  
 **&nbsp;&nbsp;&nbsp;为了交互对象之间的松耦合设计而努力；松耦合设计更有弹性，更能应对变化  
+**&nbsp;&nbsp;&nbsp;开闭原则;对扩展开发，对修改关闭;  
 
 ## OO模式:  
 ## *&nbsp;&nbsp;&nbsp;观察者模式--Observer*:  
