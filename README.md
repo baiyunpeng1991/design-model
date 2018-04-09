@@ -5,7 +5,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1,继承inheritance  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2,组合component  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3,委托delegation  
-#### &nbsp;&nbsp;&nbsp;可扩展  
+*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其中2,3具有运行时继承的效果*  
+#### &nbsp;&nbsp;&nbsp;可扩展  
 #### &nbsp;&nbsp;&nbsp;可维护  
 
 ## 设计步骤:  
