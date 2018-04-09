@@ -1,9 +1,12 @@
 # design-model
 
 ## 良好的OO设计:  
-&nbsp;&nbsp;&nbsp;可复用  
-&nbsp;&nbsp;&nbsp;可扩展  
-&nbsp;&nbsp;&nbsp;可维护  
+#### &nbsp;&nbsp;&nbsp;可复用:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1,继承inheritance  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2,组合component  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3,委托delegation  
+#### &nbsp;&nbsp;&nbsp;可扩展  
+#### &nbsp;&nbsp;&nbsp;可维护  
 
 ## 设计步骤:  
 &nbsp;&nbsp;&nbsp;*1,找出程序中会变化的部分，然后将其与不变的方面相分离（不变的可作为继承复用，变化的使用多态实现复用）;*  
