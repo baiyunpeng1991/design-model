@@ -6,10 +6,10 @@ import com.design.learn.practice.decorator.condiment.Soy;
 
 public class MianTest {
     public static void main(String[] args) {
-        Beverage beverage = new DarkRoast();
-        beverage = new Milk(beverage);
-        beverage = new Mocha(beverage);
-        beverage = new Soy(beverage);
-        System.out.println(beverage.getDescription() +" = [" + beverage.cost() + "]");
+        Beverage darkRoast = new DarkRoast();
+        Beverage milk = new Milk(darkRoast);
+        Beverage mocha = new Mocha(milk);
+        Beverage soy = new Soy(mocha);
+        System.out.println(soy.getDescription() +" = [" + soy.cost() + "]");
     }
 }
