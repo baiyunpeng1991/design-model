@@ -50,3 +50,8 @@
 |多用组合|Subject持有Observer的实现类列表，即对象之间的关系是运行时通过组合实现的，而非继承|  
 
 ## *&nbsp;&nbsp;&nbsp;装饰者模式--Decorator*: 
+--coffee店案例
+## *&nbsp;&nbsp;&nbsp;工厂模式--Decorator*: 
+--Pizza店案例
+## *&nbsp;&nbsp;&nbsp;命令模式--Decorator*: 
+--遥控器案例
