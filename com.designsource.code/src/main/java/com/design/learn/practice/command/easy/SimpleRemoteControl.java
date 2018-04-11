@@ -1,4 +1,4 @@
-package com.design.learn.practice.command;
+package com.design.learn.practice.command.easy;
 
 /**
  * 调用者只关心command

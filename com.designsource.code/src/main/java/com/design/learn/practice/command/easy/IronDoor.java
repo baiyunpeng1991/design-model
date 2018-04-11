@@ -1,4 +1,4 @@
-package com.design.learn.practice.command;
+package com.design.learn.practice.command.easy;
 
 public class IronDoor implements Door {
     @Override
