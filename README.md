@@ -51,7 +51,13 @@
 
 ## *&nbsp;&nbsp;&nbsp;装饰者模式--Decorator*: 
 --coffee店案例
-## *&nbsp;&nbsp;&nbsp;工厂模式--Decorator*: 
---Pizza店案例
-## *&nbsp;&nbsp;&nbsp;命令模式--Decorator*: 
---遥控器案例
+## *&nbsp;&nbsp;&nbsp;工厂模式--Factory*: 
+--Pizza店案例  
+### *&nbsp;&nbsp;&nbsp;工厂方法 
+### *&nbsp;&nbsp;&nbsp;抽象工厂  
+## *&nbsp;&nbsp;&nbsp;命令模式--Command*: 
+--线程池，队列，日志，遥控器  
+## *&nbsp;&nbsp;&nbsp;适配器模式--Adapter*: 
+--火鸡改造成鸭子  
+## *&nbsp;&nbsp;&nbsp;外观模式--Facade*: 
+--家庭影院案例  
