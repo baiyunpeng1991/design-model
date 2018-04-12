@@ -1,7 +1,7 @@
 # design-model
 
 ## 良好的OO设计:  
-#### &nbsp;&nbsp;&nbsp;可复用:  
+#### &nbsp;&nbsp;&nbsp;实现复用的方式:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1,继承inheritance  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2,组合component  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3,委托delegation  
